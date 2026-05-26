@@ -44,14 +44,18 @@ Currently based in **Calgary, AB** and actively pursuing senior cloud security a
 **Automation & IaC**
 `Python` `PowerShell` `Terraform` `Ansible` `ARM Templates` `Azure Functions` `CI/CD` `Docker` `Kubernetes` `GitOps`
 
-**Firewalls & Networking**
-`Palo Alto (PCNSE)` `Fortinet (NSE7)` `Cisco ASA (CCNP Security)` `F5 AWAF` `IDS/IPS` `SD-WAN` `Micro-Segmentation`
+ 🔥 Firewalls & Network Security — *Deep Hands-On*
+`Palo Alto NGFW (PCNSE)` `Fortinet FortiGate (NSE7)` `Cisco ASA & Firepower (CCNP Security)` `F5 AWAF & APM` `IDS/IPS` `WAF` `Load Balancing` `Micro-Segmentation` `SD-WAN` `VPN`
 
 **Identity & Zero Trust**
 `Azure AD` `Conditional Access` `RBAC` `MFA` `PKI` `Zero Trust Architecture` `Cloud App Security`
 
 **Frameworks & Compliance**
 `NIST CSF` `ISO 27001` `SOC 2` `PCI DSS` `MITRE ATT&CK` `GDPR` `COBIT`
+
+### 🌐 Network Engineering — *Foundational Depth*
+`LAN/WAN Design` `Campus Network Architecture` `Three-Tier Network Design` `Routing & Switching` `VRRP` `VRF` `STP` `LACP` `MPLS/IPVPN` `802.1X` `Wireless Security`
+
 
 ---
 
@@ -84,6 +88,24 @@ Automated KPI reporting pipeline generating PDF/PPTX executive dashboards and a 
 ### 🔎 KQL Log Ingestion Verification — ADEK NetSEC
 KQL-based verification framework querying `CommonSecurityLog` and `Syslog` across 45 network devices at HQ, SDC, and DR sites. Output: color-coded Excel report identifying non-ingesting devices.
 `KQL` `CommonSecurityLog` `Syslog` `Excel Automation` `Network Security`
+
+### 🏛️ Government Department Security Consolidation
+Contributed to a multi-agency government merger initiative in Abu Dhabi — redesigned perimeter security using NGFW micro-segmentation, implemented compliance-aligned controls, and reviewed/optimized inherited Sentinel workspace configurations. Improved inherited entity cybersecurity posture score to 75% while reducing ingestion costs by 45%.
+`NGFW` `Micro-Segmentation` `Microsoft Sentinel` `Compliance` `Security Posture`
+
+---
+
+## 🤝 Consulting & Client-Facing Experience
+
+Beyond the technical work, I've spent **3+ years in MSSP and client-facing consulting roles**:
+
+- Weekly security advisory presentations to IT security teams across 55 government entities
+- Writing technical recommendations, health check reports, and security roadmap guidance
+- Scoping security projects, writing proposals and RFPs for enterprise engagements
+- Managing client relationships and leading a 3-person network/security operations team
+- Audience: IT directors, IT managers, government security leads
+
+This means I can communicate findings and recommendations clearly — not just build them.
 
 ---
 
