@@ -91,6 +91,7 @@ KQL-based verification framework querying `CommonSecurityLog` and `Syslog` acros
 
 | Certification | Issuer |
 |---|---|
+| Azure Security Engineer Associate – AZ-500 | Microsoft Azure |
 | AWS Certified Security – Specialty | Amazon Web Services |
 | CCNP Security | Cisco |
 | CEHv12 – Certified Ethical Hacker | EC-Council |
